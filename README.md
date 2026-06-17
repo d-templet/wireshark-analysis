@@ -18,21 +18,19 @@ Captured and analyzed live network traffic on my home network using Wireshark on
 - Followed TCP stream showing full request/response cycle
 - DNS queries resolved domain names before HTTP requests
 - Normal ARP traffic for local network discovery
-
 ## Screenshots
 
 ### Full Capture
 ![Full Capture](screenshots/capture.png)
 
-### HTTP Filtered
+### HTTP Filtered Traffic
 ![HTTP Filter](screenshots/http.png)
 
-### DNS Queries
-![DNS Filter](screenshots/dns.png)
+### Protocol Hierarchy
+![Protocol Hierarchy](screenshots/protocol-hierarchy.png)
 
-### TCP Stream
+### TCP Stream Follow
 ![TCP Stream](screenshots/tcp.png)
-
 ## What I Learned
 - Filtering traffic by protocol (`http`, `dns`)
 - Following TCP streams to see full conversations
