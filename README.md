@@ -12,6 +12,19 @@ I captured and analyzed live network traffic on my home network using Wireshark 
 - **Network:** Home WiFi
 - **Interface:** wlan0
 - **Capture Duration:** ~5 minutes
+## Screenshots
+
+### Full Capture
+![Full Capture](screenshots/full-capture.png)
+
+### HTTP Filtered Traffic
+![HTTP Filter](screenshots/http-filter.png)
+
+### DNS Queries
+![DNS Filter](screenshots/dns-filter.png)
+
+### TCP Stream Follow
+![TCP Stream](screenshots/tcp-stream.png)
 
 ## Observations
 - HTTP traffic detected (cleartext requests)
