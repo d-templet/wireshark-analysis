@@ -1,5 +1,6 @@
 # Wireshark Traffic Analysis Lab
-
+## Why This Matters
+Network traffic analysis is a core skill for IT support and security roles. This lab demonstrates my ability to use Wireshark to investigate network activity and identify protocols.
 ## Project Overview
 Captured and analyzed live network traffic on my home network using Wireshark on Fedora Linux.
 
